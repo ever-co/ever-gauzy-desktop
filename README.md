@@ -29,7 +29,7 @@ View full list of our [contributors](https://github.com/ever-co/ever-gauzy/graph
 
 Gauzy™ follows good security practices, but 100% security cannot be guaranteed in any software!  
 Gauzy™ is provided AS IS without any warranty. Use at your own risk!  
-See more details in the [LICENSE](LICENSE).
+See more details in the [LICENSE.md](LICENSE.md).
 
 In a production setup, all client-side to server-side (backend, APIs) communications should be encrypted using HTTPS/WSS/SSL (REST APIs, GraphQL endpoint, Socket.io WebSockets, etc.).
 
