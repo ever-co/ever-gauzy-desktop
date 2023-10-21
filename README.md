@@ -1,6 +1,6 @@
 # Ever Gauzy Desktop App
 
-Please see https://github.com/ever-co/ever-gauzy for more information about Gauzy Platform and other available Apps.
+Please see https://github.com/ever-co/ever-gauzy for more information about the Gauzy Platform and other available Apps.
 
 ## Contribute
 
@@ -10,7 +10,7 @@ Please see https://github.com/ever-co/ever-gauzy for more information about Gauz
 
 ## Contributors
 
-View full list of our [contributors](https://github.com/ever-co/ever-gauzy/graphs/contributors).
+View the full list of our [contributors](https://github.com/ever-co/ever-gauzy/graphs/contributors).
 
 ## Contact Us
 
@@ -37,9 +37,9 @@ If you discover any issue regarding security, please disclose the information re
 
 ## License
 
-We support the open-source community. If you're building awesome non-profit/open-source projects, we're happy to help and will provide (subject to [acceptance criteria](https://github.com/ever-co/ever-gauzy/wiki/Free-license-and-hosting-for-Non-profit-and-Open-Source-projects)) Ever Gauzy Enterprise edition license and free hosting option! Feel free to contact us at <mailto:ever@ever.co> to make a request. More details explained in our [Wiki](https://github.com/ever-co/ever-gauzy/wiki/Free-license-and-hosting-for-Non-profit-and-Open-Source-projects).
+We support the open-source community. If you're building awesome non-profit/open-source projects, we're happy to help and will provide (subject to [acceptance criteria](https://github.com/ever-co/ever-gauzy/wiki/Free-license-and-hosting-for-Non-profit-and-Open-Source-projects)) Ever Gauzy Enterprise edition license and free hosting option! Feel free to contact us at <mailto:ever@ever.co> to make a request. More details are explained in our [Wiki](https://github.com/ever-co/ever-gauzy/wiki/Free-license-and-hosting-for-Non-profit-and-Open-Source-projects).
 
-This software is available under following licenses:
+This software is available under the following licenses:
 
 -   [Ever® Gauzy™ Platform Community Edition](https://github.com/ever-co/ever-gauzy/blob/master/LICENSE.md#gauzy-platform-community-edition-license)
 -   [Ever® Gauzy™ Platform Small Business](https://github.com/ever-co/ever-gauzy/blob/master/LICENSE.md#gauzy-platform-small-business-license)
@@ -66,5 +66,5 @@ All other brand and product names are trademarks, registered trademarks or servi
 
 ## P.S.
 
--   If you interested to run on-demand (delivery) or digital marketplace business, check open-source [Ever Demand Platform](https://github.com/ever-co/ever-demand)
+-   If you are interested to run an on-demand (delivery) or digital marketplace business, check open-source [Ever Demand Platform](https://github.com/ever-co/ever-demand)
 -   [We are Hiring: remote TypeScript / NestJS / Angular developers](https://github.com/ever-co/jobs#available-positions)
